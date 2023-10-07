@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SecondActivity">
+    tools:context=".ThirdActivity">
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="211dp"
-        android:layout_height="83dp"
-        android:layout_marginTop="232dp"
-        android:text="Start ActivityThree"
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="126dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="180dp"
+        android:text="Third Activity"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
