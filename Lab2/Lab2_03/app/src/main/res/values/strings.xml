@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityStateSave</string>
+    <string name="MainTextView">Default Text</string>
+</resources>
