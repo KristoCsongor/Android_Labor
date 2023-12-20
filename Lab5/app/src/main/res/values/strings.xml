@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab05_03</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="submit">Submit</string>
+</resources>
